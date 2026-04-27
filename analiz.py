@@ -5,6 +5,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+# Atıl Samancıoğlu Udemy veri bilimi kursu bölüm 48 karar ağaçları ödevine ithafen yapılmıştır.
+
+
 df = pd.read_csv('data/Student_Performance.csv')
 
 #print(df.head())
